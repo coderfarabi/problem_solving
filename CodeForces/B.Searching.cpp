@@ -1,3 +1,7 @@
+// bineary search to find a number from unsorted array
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
